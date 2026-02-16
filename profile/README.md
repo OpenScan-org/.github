@@ -1,6 +1,4 @@
-# OpenScan
-
-## Overview
+# Overview
 OpenScan is an open source photogrammetry 3D scanning ecosystem focused on affordable digitization of smaller objects.
 It combines basic hardware components with open software and can achieve precise results. It is used by makers, researchers, and professionals.
 
