@@ -27,7 +27,7 @@ For additional builds, remixes, modifications, electronics and parts, see the [O
 | Firmware           | Status | Maintainers                              | Source code                                                     | Cross-platform      | Notes                                         |
 | ------------------ | ------ | ---------------------------------------- | --------------------------------------------------------------- | ------------------- | --------------------------------------------- |
 | OpenScan2          | stable | openscan.eu                              | [GitHub](https://github.com/OpenScan-org/OpenScan2)             | yes (web interface) | Ships with kits from openscan.eu              |
-| OpenScan3          | alpha  | openscan.eu                              | [GitHub](https://github.com/OpenScan-org/OpenScan3)             | yes (web interface) | Active development, contributions welcome     |
+| OpenScan3          | beta  | openscan.eu                              | [GitHub](https://github.com/OpenScan-org/OpenScan3)             | yes (web interface) | Active development, contributions welcome     |
 | OpenScan Meanwhile | stable | community                                | [GitHub](https://github.com/stealthizer/OpenScan2/tree/2024-1o) | yes (web interface) | Good fit if you need broader hardware support |
 | OpenScan Composer  | beta   | [Rhis](https://www.openscancomposer.com) | proprietary ([website](https://www.openscancomposer.com))       | Windows host        | Host-based processing for higher performance  |
 
